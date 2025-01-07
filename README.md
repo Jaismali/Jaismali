@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Jai, and I'm currently pursuing my undergraduate degree in AI & ML from Symbiosis Skills and Professional University. 
+
+- 🔭 I’m currently working on Blockchain development 
+- 🌱 I’m currently learning solidity & smart contract
+- 🤝 I’m looking to collaborate on ...
+- 📫 How to reach me: You can reach me through my email jaisachinmali@gmail.com
 <!--
 **Jaismali/Jaismali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
